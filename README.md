@@ -5,7 +5,7 @@ The dataset contains historical information about Seville's weather since 2000 a
 
 
 
-### Fields 
+### Fields 
 
 `Date ` : Contains the date in `dd/mm/yyyy` format.
 
@@ -23,7 +23,7 @@ The dataset contains historical information about Seville's weather since 2000 a
 
 
 
-### Source
+### Source
 
 The dataset's information has been downloaded from **[Meteomanz](http://www.meteomanz.com/index?l=1)**.  
 
